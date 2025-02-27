@@ -1,2 +1,11 @@
 # Magazine-km-368
-Free Code Camp's magazine
+Deploying Free Code Camp's magazine using Netlify.
+
+**Tools Used**
+
+* Free Code Camp
+* codepen.io
+* GitHub
+* repositories
+* codespaces
+* Netlify
